@@ -168,6 +168,10 @@ public enum ItemList
     CopperWandCap(new ModSimpleBaseItem("CopperWandCap", ModTabList.ModThaumcraftTab)),
     CrimsonStainedClothCap(new ModSimpleBaseItem("CrimsonStainedClothCap", ModTabList.ModThaumcraftTab)),
     DraconiumEgg(new ModSimpleBaseItem("DraconiumEgg", ModTabList.ModGenericTab)),
+    //
+    DraconicCoreShell(new ModSimpleBaseItem("DraconicCoreShell", ModTabList.ModGenericTab)),
+    DraconicCoreMatrix(new ModSimpleBaseItem("DraconicCoreMatrix", ModTabList.ModGenericTab)),
+    //
     DeimosStoneDust(new ModSimpleBaseItem("DeimosStoneDust", ModTabList.ModSpaceTab)),
     DeshDualCompressedPlates(new ModSimpleBaseItem("DeshDualCompressedPlates", ModTabList.ModSpaceTab)),
     Display(new ModSimpleBaseItem("Display", ModTabList.ModCircuitsTab)),

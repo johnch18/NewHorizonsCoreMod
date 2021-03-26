@@ -629,3 +629,6 @@ item.RuneOfVigorFragment.name=Rune of Vigor Fragment
 item.RuneOfDefenseFragment.name=Rune of Defense Fragment
 item.RuneOfMagicFragment.name=Rune of Magic Fragment
 item.RuneOfVoidFragment.name=Rune of Void Fragment
+
+item.DraconicCoreShell.name=Draconic Core Shell
+item.DraconicCoreMatrix.name=Draconic Core Matrix
